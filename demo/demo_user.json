@@ -1,0 +1,22 @@
+{
+  "external_user_id": "sales-eng-demo",
+  "first_name": "Demo",
+  "last_name": "User",
+  "email":"sales-eng-demo@looker.com",
+  "session_length": 3600,
+  "force_logout_login": true,
+  "external_group_id": "group1",
+  "group_ids": [],
+  "permissions": [
+    "access_data",
+    "see_looks",
+    "explore",
+    "see_user_dashboards",
+    "see_lookml_dashboards",
+    "explore",
+    "see_drill_overlay",
+    "save_content"
+  ],
+  "models": ["thelook"],
+  "user_attributes": { "locale": "en_US" }
+}
